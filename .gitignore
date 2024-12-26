@@ -1,0 +1,21 @@
+# Environment variables
+.env
+
+# Python virtual environment
+venv/
+ai_agent_env/
+__pycache__/
+*.pyc
+
+# Generated files
+my_timeline_summaries.json
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db
